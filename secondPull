@@ -1,0 +1,19 @@
+<html>
+
+<head>
+	<style type="text/css">
+		body{
+			Background-image:url(pikachu.jpg);
+			background-repeat:no-repeat;
+			background-position: 0px 70px;
+			 
+		}
+		 
+	
+	</style>
+</head>
+
+<body>
+	<h1>Go Pikachu, use Thunderbolt!</h1> 
+</body>
+</html>
